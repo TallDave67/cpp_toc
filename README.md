@@ -8,7 +8,6 @@ Here is a list of my C++ projects that are very relevant in today's technologica
 
 [Determine Camera Position](https://github.com/TallDave67/camera-location-system)
 
-
 ### CUDA
 
 [Sliding Window (stencil) Operation with Shared Memory](https://github.com/TallDave67/cuda-nersc-hw02)
