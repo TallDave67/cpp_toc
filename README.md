@@ -4,6 +4,12 @@ Here is a list of my C++ projects that are very relevant in today's technologica
 
 ## Table of Contents
 
+### Threads
+
+[Thread Testing Engine](https://github.com/TallDave67/thread-tester-engine)
+
+[Thread Testing UI that calls the Engine](https://github.com/TallDave67/thread-tester-ui)
+
 ### Computer Vision
 
 [Determine Camera Position](https://github.com/TallDave67/camera-location-system)
