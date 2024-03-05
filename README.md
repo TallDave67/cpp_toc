@@ -8,6 +8,8 @@ Here is a list of my C++ projects that are very relevant in today's technologica
 
 [Thread Testing Engine](https://github.com/TallDave67/thread-tester-engine)
 
+[Thread Testing Engine - Promises](https://github.com/TallDave67/thread-tester-engine-promises)
+
 [Thread Testing UI that calls the Engine](https://github.com/TallDave67/thread-tester-ui)
 
 ### IO
