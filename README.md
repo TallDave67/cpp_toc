@@ -16,6 +16,10 @@ Here is a list of my C++ projects that are very relevant in today's technologica
 
 [Boost IO Testing](https://github.com/TallDave67/boost-io-tester)
 
+### Algorithms
+
+[Find Sub-Matrix with Max Sum](https://github.com/TallDave67/sub_matrix_max_sum)
+
 ### Computer Vision
 
 [Determine Camera Position](https://github.com/TallDave67/camera-location-system)
